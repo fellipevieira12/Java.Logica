@@ -1,18 +1,35 @@
-## Getting Started
+# Java - Fundamentos ☕
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositório contém exercícios e projetos iniciais em **Java**, criados para praticar e fixar os conceitos fundamentais da linguagem.
 
-## Folder Structure
+## 📂 Estrutura
+- `src/` → códigos fonte em Java
+- `bin/` → arquivos compilados
+- `lib/` → dependências (se houver)
 
-The workspace contains two folders by default, where:
+## 🚀 Tecnologias
+- Linguagem: **Java**
+- IDE: **VS Code**
+- Versionamento: **Git & GitHub**
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📌 Projetos até agora
+- **Operadores Aritméticos** → operações básicas (soma, subtração, multiplicação, divisão e módulo)
+- **Classificação de Números** → verifica se o número é positivo/negativo/nulo e se é par ou ímpar
+- **Classificação de Idade** → determina a faixa etária de uma pessoa e a sua possibilidade de voto
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🎯 Objetivo
+Praticar lógica de programação, estruturas de controle e fundamentos da Programação Orientada a Objetos em Java.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Como executar
+- Compile: `javac -d bin src/*.java`
+- Rode (exemplo): `java -cp bin NomeDaClasse`
 
-## Dependency Management
+## 📅 Roadmap
+- [ ] Fundamentos básicos
+- [ ] Estruturas condicionais mais complexas
+- [ ] Arrays e coleções
+- [ ] Introdução a Programação Orientada a Objetos
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+---
+✍️ Desenvolvido por [Fellipe Vieira](https://github.com/fellipevieira12)
